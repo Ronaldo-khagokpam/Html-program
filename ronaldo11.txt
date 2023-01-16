@@ -1,0 +1,9 @@
+<html>
+<BODY>
+<IMG SRC="C:\Users\hemjit\Desktop\2010-12-27 gv\DSC00516.JPG"HEIGHT="40%"WIDTH="50%">
+<font size="3"color="purple">
+<li>RONALDO IS AT ACCOLAND GUWAHATI
+</FONT>
+</BODY>
+</HTML>
+

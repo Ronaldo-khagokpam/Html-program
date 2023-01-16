@@ -1,0 +1,10 @@
+<html>
+<body>
+<img src="C:\Users\hemjit\Desktop\2010-12-27 gv\1501394087884.jpg"border="35%"color="green"height="50%"width="60%">
+<li>JILETA IS AT ACCOLAND
+<img src="C:\Users\hemjit\Desktop\2010-12-27 gv\1501394087884.jpg"border="35%"color="green"height="50%"width="60%">
+<li>JILETA IS AT ACCOLAND
+<img src="C:\Users\hemjit\Desktop\2010-12-27 gv\1501394087884.jpg"border="35%"color="green"height="50%"width="60%">
+<li>JILETA IS AT ACCOLAND
+</BODY>
+</HTML> 

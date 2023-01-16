@@ -1,0 +1,12 @@
+<HTML>
+<BODY>
+Learning about Anchors<BR>
+<A Name="A1">
+Anchor element is defined by the A element.<BR>
+The Anchor element accepts several attributes.<BR>
+HREF<BR>
+NAME<BR>
+TITLE<BR>
+</A>
+</BODY> 
+</HTML>

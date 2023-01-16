@@ -1,0 +1,7 @@
+<HTML>
+<BODY>
+<A NAME="A2">
+<IMG SRC="D:\family photo\2015-05-30 sl\2015-06-05\DSC01244.JPG"BORDER="4"HEIGHT="30%"WIDTH="40%">
+</A>
+</BODY>
+</HTML>
